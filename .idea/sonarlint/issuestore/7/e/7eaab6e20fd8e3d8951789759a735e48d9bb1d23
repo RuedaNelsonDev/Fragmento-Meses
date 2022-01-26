@@ -1,0 +1,9 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹„Òç
+u
+java:S1450"ZRemove the "btnCalcular" field and declare it as a local variable in the relevant methods.(ô™»¯þÿÿÿÿ
+V	java:S125?"<This block of commented-out lines of code should be removed.(‡ÈùÉÿÿÿÿÿ
+Q	java:S125A"<This block of commented-out lines of code should be removed.(Óëòù
+>
+java:S1604+"(Make this anonymous inner class a lambda(€„âò
